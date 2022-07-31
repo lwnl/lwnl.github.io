@@ -1,2 +1,0 @@
-# lwnl.github.io
-mainpage
